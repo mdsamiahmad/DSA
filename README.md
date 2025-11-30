@@ -23,6 +23,7 @@
 | [1004-Max-Consecutive-Ones-III](https://github.com/mdsamiahmad/DSA/tree/main/1004-Max-Consecutive-Ones-III) |
 | [1248-Count-Number-of-Nice-Subarrays](https://github.com/mdsamiahmad/DSA/tree/main/1248-Count-Number-of-Nice-Subarrays) |
 | [1423-Maximum-Points-You-Can-Obtain-From-Cards](https://github.com/mdsamiahmad/DSA/tree/main/1423-Maximum-Points-You-Can-Obtain-From-Cards) |
+| [1480-Running-Sum-of-1D-Array](https://github.com/mdsamiahmad/DSA/tree/main/1480-Running-Sum-of-1D-Array) |
 | [2643-Row-With-Maximum-Ones](https://github.com/mdsamiahmad/DSA/tree/main/2643-Row-With-Maximum-Ones) |
 | [Find Missing and Repeating Number](https://github.com/mdsamiahmad/DSA/tree/main/Find%20Missing%20and%20Repeating%20Number) |
 | [Maximum Product Subarray](https://github.com/mdsamiahmad/DSA/tree/main/Maximum%20Product%20Subarray) |
@@ -57,9 +58,11 @@
 
 | Problems |
 |---|
+| [0005-Longest-Palindromic-Substring](https://github.com/mdsamiahmad/DSA/tree/main/0005-Longest-Palindromic-Substring) |
 | [0008-String-to-Integer](https://github.com/mdsamiahmad/DSA/tree/main/0008-String-to-Integer) |
 | [0013-Roman-to-Integer](https://github.com/mdsamiahmad/DSA/tree/main/0013-Roman-to-Integer) |
 | [0014-Longest-Common-Prefix](https://github.com/mdsamiahmad/DSA/tree/main/0014-Longest-Common-Prefix) |
+| [0028-Find-the-Index-of-the-First-Occurrence-in-a-String](https://github.com/mdsamiahmad/DSA/tree/main/0028-Find-the-Index-of-the-First-Occurrence-in-a-String) |
 | [0151-Reverse-Words-in-a-String](https://github.com/mdsamiahmad/DSA/tree/main/0151-Reverse-Words-in-a-String) |
 | [0205-Isomorphic-Strings](https://github.com/mdsamiahmad/DSA/tree/main/0205-Isomorphic-Strings) |
 | [0242-Valid-Anagram](https://github.com/mdsamiahmad/DSA/tree/main/0242-Valid-Anagram) |
@@ -71,6 +74,20 @@
 | [1614-Maximum-Nesting-Depth-of-the-parentheses](https://github.com/mdsamiahmad/DSA/tree/main/1614-Maximum-Nesting-Depth-of-the-parentheses) |
 | [1781-Sum-of-Beauty-of-All-Substrings](https://github.com/mdsamiahmad/DSA/tree/main/1781-Sum-of-Beauty-of-All-Substrings) |
 | [1903-Largest-Odd-Number-in-String](https://github.com/mdsamiahmad/DSA/tree/main/1903-Largest-Odd-Number-in-String) |
+
+---
+
+### 🔁 Sliding Window
+
+| Problems |
+|---|
+| [0424-Longest-Repeating-Character-Replacement](https://github.com/mdsamiahmad/DSA/tree/main/0424-Longest-Repeating-Character-Replacement) |
+| [0560-Subarray-Sum-Equals-k](https://github.com/mdsamiahmad/DSA/tree/main/0560-Subarray-Sum-Equals-k) |
+| [0930-Binary-Subarrays-With-Sum](https://github.com/mdsamiahmad/DSA/tree/main/0930-Binary-Subarrays-With-Sum) |
+| [0992-Subarrays-with-K-Different-Integers](https://github.com/mdsamiahmad/DSA/tree/main/0992-Subarrays-with-K-Different-Integers) |
+| [1004-Max-Consecutive-Ones-III](https://github.com/mdsamiahmad/DSA/tree/main/1004-Max-Consecutive-Ones-III) |
+| [1248-Count-Number-of-Nice-Subarrays](https://github.com/mdsamiahmad/DSA/tree/main/1248-Count-Number-of-Nice-Subarrays) |
+| [1358-Number-of-Substrings-Containing-All-Three-Characters](https://github.com/mdsamiahmad/DSA/tree/main/1358-Number-of-Substrings-Containing-All-Three-Characters) |
 
 ---
 
@@ -99,10 +116,24 @@
 
 ---
 
+### 🔗 Linked List
+
+| Problems |
+|---|
+| [0083-Remove-Duplicates-from-Sorted-List](https://github.com/mdsamiahmad/DSA/tree/main/0083-Remove-Duplicates-from-Sorted-List) |
+| [0206-Reverse-Linked-List](https://github.com/mdsamiahmad/DSA/tree/main/0206-Reverse-Linked-List) |
+| [0237-Delete-Node-in-a-Linked-List](https://github.com/mdsamiahmad/DSA/tree/main/0237-Delete-Node-in-a-Linked-List) |
+| [0876-Middle-of-the-Linked-List](https://github.com/mdsamiahmad/DSA/tree/main/0876-Middle-of-the-Linked-List) |
+
+---
+
 ### 🧠 Dynamic Programming
 
 | Problems |
 |---|
+| [0005-Longest-Palindromic-Substring](https://github.com/mdsamiahmad/DSA/tree/main/0005-Longest-Palindromic-Substring) |
+| [0509-Fibonacci-Number](https://github.com/mdsamiahmad/DSA/tree/main/0509-Fibonacci-Number) |
+| [1137-Nth-Tribonacci-Number](https://github.com/mdsamiahmad/DSA/tree/main/1137-Nth-Tribonacci-Number) |
 | [Maximum Product Subarray](https://github.com/mdsamiahmad/DSA/tree/main/Maximum%20Product%20Subarray) |
 
 ---
