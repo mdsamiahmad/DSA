@@ -18,27 +18,16 @@ class Solution {
             length++;
             temp = temp.next;
         }
-        if (length % 2 == 1) {
-            int cnt = 0;
-            while (head != null) {
-                if (cnt < length / 2) {
-                    cnt++;
-                    head = head.next;
-                } else {
-                    break;
-                }
-            }
-        } else {
-            int cnt = 0;
-            while (head != null) {
-                if (cnt < (length / 2)) {
-                    cnt++;
-                    head = head.next;
-                } else {
-                    break;
-                }
+        int cnt = 0;
+        while (head != null) {
+            if (cnt < (length / 2) ) {
+                cnt++;
+                head = head.next;
+            } else {
+                break;
             }
         }
+
         return head;
     }
 }
