@@ -58,7 +58,9 @@
 | [0141-Linked-List-Cycle](https://github.com/mdsamiahmad/DSA/tree/main/0141-Linked-List-Cycle) |
 | [0142-Linked-List-Cycle-II](https://github.com/mdsamiahmad/DSA/tree/main/0142-Linked-List-Cycle-II) |
 | [0206-Reverse-Linked-List](https://github.com/mdsamiahmad/DSA/tree/main/0206-Reverse-Linked-List) |
+| [0234-Palindrome-Linked-List](https://github.com/mdsamiahmad/DSA/tree/main/0234-Palindrome-Linked-List) |
 | [0237-Delete-Node-in-a-Linked-List](https://github.com/mdsamiahmad/DSA/tree/main/0237-Delete-Node-in-a-Linked-List) |
+| [0328-Odd-Even-Linked-List](https://github.com/mdsamiahmad/DSA/tree/main/0328-Odd-Even-Linked-List) |
 | [0876-Middle-of-the-Linked-List](https://github.com/mdsamiahmad/DSA/tree/main/0876-Middle-of-the-Linked-List) |
 
 ---
