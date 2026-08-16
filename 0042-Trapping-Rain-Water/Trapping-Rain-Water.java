@@ -7,7 +7,7 @@ class Solution {
         int ans = 0;
         while (l < r) {
             int water = 0;
-            if (height[r] > height[l]) {
+            if (height[r] > height[l]) { 
                 lMax = Math.max(lMax, height[l]);
                 water = lMax - height[l];
                 l++;
